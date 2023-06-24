@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="plastic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76508705"
+     inkscape:cx="394.07281"
+     inkscape:cy="282.32082"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.42123;paint-order:stroke fill markers"
+       id="rect398"
+       width="209.77876"
+       height="295.17877"
+       x="0.11061657"
+       y="0.11061657" />
+    <g
+       id="g1164"
+       transform="matrix(0.97934673,0,0,1.0005884,0.46147793,1.1777927)">
+      <rect
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         id="rect234"
+         width="164.62286"
+         height="54.874287"
+         x="23.76"
+         y="20.931427" />
+      <rect
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.18456;paint-order:stroke fill markers"
+         id="rect288"
+         width="164.62286"
+         height="13.577139"
+         x="23.76"
+         y="62.228569" />
+      <rect
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.19911;paint-order:stroke fill markers"
+         id="rect288-3"
+         width="166.59782"
+         height="13.53906"
+         x="21.541361"
+         y="194.80826" />
+      <text
+         xml:space="preserve"
+         style="font-size:25.4px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         x="49.839207"
+         y="41.579998"
+         id="text454"><tspan
+           sodipodi:role="line"
+           id="tspan452"
+           style="stroke-width:3.2"
+           x="49.839207"
+           y="41.579998">R0BOTECH</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.8121px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.61412;paint-order:stroke fill markers"
+         x="84.515701"
+         y="55.812016"
+         id="text458"
+         transform="scale(0.98845934,1.0116754)"><tspan
+           sodipodi:role="line"
+           id="tspan456"
+           style="stroke-width:1.61412"
+           x="84.515701"
+           y="55.812016">Plastic</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.7764px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.60962;paint-order:stroke fill markers"
+         x="53.762486"
+         y="72.99424"
+         id="text512"
+         transform="scale(0.99855479,1.0014473)"><tspan
+           sodipodi:role="line"
+           id="tspan510"
+           style="stroke-width:1.60962"
+           x="53.762486"
+           y="72.99424">HOME BUILD HOME</tspan></text>
+    </g>
+    <a
+       id="a2161"
+       xlink:href="pieces.svg">
+      <g
+         id="g1042">
+        <g
+           id="g594"
+           transform="translate(-1.6000013,-0.73142)">
+          <g
+             id="g520">
+            <rect
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               id="rect514"
+               width="59.302856"
+               height="45.871433"
+               x="23.354305"
+               y="101.82857" />
+            <rect
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               id="rect516"
+               width="29.65143"
+               height="45.871429"
+               x="53.005733"
+               y="101.82857" />
+          </g>
+          <path
+             style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+             d="M 53.005733,101.82857 82.657166,147.7"
+             id="path585" />
+          <path
+             style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+             d="M 82.657166,101.82857 53.005735,147.7"
+             id="path587" />
+        </g>
+        <rect
+           style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+           id="rect828"
+           width="59.302856"
+           height="11.879995"
+           x="21.754303"
+           y="89.217148" />
+        <text
+           xml:space="preserve"
+           style="font-size:12.6557px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.59442;paint-order:stroke fill markers"
+           x="25.67745"
+           y="116.51295"
+           id="text832"
+           transform="scale(1.1909824,0.83964297)"><tspan
+             sodipodi:role="line"
+             id="tspan830"
+             style="stroke-width:1.59442"
+             x="25.67745"
+             y="116.51295">PEÇAS</tspan></text>
+      </g>
+    </a>
+    <g
+       id="g1154">
+      <g
+         id="g594-51"
+         transform="translate(-1.600003,133.78688)">
+        <g
+           id="g520-2">
+          <rect
+             style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+             id="rect514-01"
+             width="59.302856"
+             height="45.871433"
+             x="23.354305"
+             y="101.82857" />
+          <rect
+             style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+             id="rect516-6"
+             width="29.65143"
+             height="45.871429"
+             x="53.005733"
+             y="101.82857" />
+        </g>
+        <path
+           style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+           d="M 53.005733,101.82857 82.657166,147.7"
+           id="path585-6" />
+        <path
+           style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+           d="M 82.657166,101.82857 53.005735,147.7"
+           id="path587-4" />
+      </g>
+      <rect
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         id="rect828-4-7"
+         width="59.302856"
+         height="11.879995"
+         x="21.754301"
+         y="221.7715" />
+      <text
+         xml:space="preserve"
+         style="font-size:11.2899px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.42235;paint-order:stroke fill markers"
+         x="27.166103"
+         y="243.89211"
+         id="text832-3-6"
+         transform="scale(1.0529693,0.94969531)"><tspan
+           sodipodi:role="line"
+           id="tspan830-6-3"
+           style="stroke-width:1.42235"
+           x="27.166103"
+           y="243.89211">plastic</tspan></text>
+    </g>
+    <g
+       id="g1143">
+      <g
+         id="g594-5-2"
+         transform="translate(100.96569,133.78688)">
+        <g
+           id="g520-1-3">
+          <rect
+             style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+             id="rect514-1-6"
+             width="59.302856"
+             height="45.871433"
+             x="23.354305"
+             y="101.82857" />
+          <rect
+             style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+             id="rect516-0-8"
+             width="29.65143"
+             height="45.871429"
+             x="53.005733"
+             y="101.82857" />
+        </g>
+        <path
+           style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+           d="M 53.005733,101.82857 82.657166,147.7"
+           id="path585-0-0" />
+        <path
+           style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+           d="M 82.657166,101.82857 53.005735,147.7"
+           id="path587-2-8" />
+      </g>
+      <rect
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         id="rect828-4-7-3"
+         width="59.302856"
+         height="11.879995"
+         x="124.31999"
+         y="223.02626" />
+      <text
+         xml:space="preserve"
+         style="font-size:11.9326px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.50332;paint-order:stroke fill markers"
+         x="130.57796"
+         y="228.74538"
+         id="text933-6"
+         transform="scale(0.98128608,1.0190708)"><tspan
+           sodipodi:role="line"
+           id="tspan931-1"
+           style="stroke-width:1.50332"
+           x="130.57796"
+           y="228.74538">roldanas</tspan></text>
+    </g>
+    <rect
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:4.83808;paint-order:stroke fill markers"
+       id="rect2949"
+       width="87.316216"
+       height="89.658005"
+       x="22.573341"
+       y="90.036186" />
+    <rect
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+       id="rect2953"
+       width="59.302864"
+       height="13.572209"
+       x="125.10545"
+       y="89.242516" />
+    <rect
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+       id="rect2955"
+       width="59.30286"
+       height="59.715374"
+       x="21.754299"
+       y="221.77148" />
+    <rect
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+       id="rect2957"
+       width="59.302864"
+       height="58.460613"
+       x="124.31999"
+       y="223.02626" />
+    <path
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+       d="M 109.88956,179.69418 22.573341,90.036186"
+       id="path3020" />
+    <path
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+       d="M 109.88956,90.036186 22.573341,179.69418"
+       id="path3022" />
+    <g
+       id="g3054"
+       transform="translate(0.52916663,33.337506)">
+      <a
+         id="a2921"
+         xlink:href="update.svg">
+        <g
+           id="g1121"
+           transform="translate(1.2914373e-6,0.98301839)">
+          <g
+             id="g594-5"
+             transform="translate(101.22198,-1.7144422)">
+            <g
+               id="g520-1">
+              <rect
+                 style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+                 id="rect514-1"
+                 width="59.302856"
+                 height="45.871433"
+                 x="23.354305"
+                 y="101.82857" />
+              <rect
+                 style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+                 id="rect516-0"
+                 width="29.65143"
+                 height="45.871429"
+                 x="53.005733"
+                 y="101.82857" />
+            </g>
+            <path
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               d="M 53.005733,101.82857 82.657166,147.7"
+               id="path585-0" />
+            <path
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               d="M 82.657166,101.82857 53.005735,147.7"
+               id="path587-2" />
+          </g>
+          <rect
+             style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+             id="rect828-7"
+             width="59.302856"
+             height="11.879995"
+             x="124.57629"
+             y="88.234131" />
+          <text
+             xml:space="preserve"
+             style="font-size:10.6311px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.33936;paint-order:stroke fill markers"
+             x="146.57498"
+             y="87.441277"
+             id="text858"
+             transform="scale(0.89058321,1.1228597)"><tspan
+               sodipodi:role="line"
+               id="tspan856"
+               style="stroke-width:1.33936"
+               x="146.57498"
+               y="87.441277">REPOSIÇÃO</tspan></text>
+        </g>
+      </a>
+      <rect
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         id="rect2951"
+         width="59.30286"
+         height="57.751423"
+         x="124.57629"
+         y="89.217148" />
+      <path
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         d="m 124.57629,95.157146 v -5.939999 l 59.30286,57.751433"
+         id="path3024" />
+      <path
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         d="M 183.87915,89.217147 124.57629,146.96857"
+         id="path3026" />
+    </g>
+    <path
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+       d="m 21.754301,221.7715 59.302858,59.71534"
+       id="path3028" />
+    <path
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+       d="m 81.057159,221.7715 -59.30286,59.71534"
+       id="path3030" />
+    <path
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+       d="m 124.31999,223.02626 59.30286,58.46061"
+       id="path3032" />
+    <path
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+       d="m 183.62286,223.02626 -59.30287,58.46061"
+       id="path3034" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.5812px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.71102;paint-order:stroke fill markers"
+       x="26.624928"
+       y="204.08684"
+       id="text3038"
+       transform="scale(0.98625583,1.0139357)"><tspan
+         sodipodi:role="line"
+         id="tspan3036"
+         style="stroke-width:1.71102"
+         x="26.624928"
+         y="204.08684">similares:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.0197px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.89224;paint-order:stroke fill markers"
+       x="144.34947"
+       y="89.719124"
+       id="text3058"
+       transform="scale(0.89046655,1.1230068)"><tspan
+         sodipodi:role="line"
+         id="tspan3056"
+         style="stroke-width:1.89224"
+         x="144.34947"
+         y="89.719124">rechase</tspan></text>
+    <a
+       id="a3990"
+       xlink:href="index.svg"
+       transform="translate(0,0.52916667)">
+      <g
+         id="g3984">
+        <rect
+           style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+           id="rect3975"
+           width="37.663269"
+           height="10.374636"
+           x="23.222136"
+           y="4.1498547" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.903px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.37361;paint-order:stroke fill markers"
+           x="33.681431"
+           y="11.326657"
+           id="text3979"
+           transform="scale(0.81538124,1.2264202)"><tspan
+             sodipodi:role="line"
+             id="tspan3977"
+             style="stroke-width:1.37361"
+             x="33.681431"
+             y="11.326657">voltar</tspan></text>
+      </g>
+    </a>
+  </g>
+</svg>

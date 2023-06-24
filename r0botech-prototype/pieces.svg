@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="pieces.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.76508705"
+     inkscape:cx="387.5376"
+     inkscape:cy="227.4251"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.42123;paint-order:stroke fill markers"
+       id="rect398"
+       width="209.77876"
+       height="295.17877"
+       x="0.11061657"
+       y="0.11061657" />
+    <g
+       id="g1164"
+       transform="matrix(0.97934673,0,0,1.0005884,-0.59685541,1.1777927)">
+      <rect
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         id="rect234"
+         width="164.62286"
+         height="54.874287"
+         x="23.76"
+         y="20.931427" />
+    </g>
+    <rect
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.25207;paint-order:stroke fill markers"
+       id="rect1385"
+       width="54.854931"
+       height="54.854931"
+       x="22.698458"
+       y="22.147572" />
+    <path
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+       d="M 22.698457,22.147571 77.55339,77.002501"
+       id="path1387" />
+    <path
+       style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+       d="M 77.55339,22.147571 22.672423,77.028105"
+       id="path1389" />
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+       x="93.074211"
+       y="55.331394"
+       id="text1393"><tspan
+         sodipodi:role="line"
+         id="tspan1391"
+         style="stroke-width:3.2"
+         x="93.074211"
+         y="55.331394">peças</tspan></text>
+    <g
+       id="g1573">
+      <g
+         id="g1042">
+        <g
+           id="g594"
+           transform="translate(-1.6000013,-0.73142)">
+          <g
+             id="g520">
+            <rect
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               id="rect514"
+               width="59.302856"
+               height="45.871433"
+               x="23.354305"
+               y="101.82857" />
+            <rect
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               id="rect516"
+               width="29.65143"
+               height="45.871429"
+               x="53.005733"
+               y="101.82857" />
+          </g>
+        </g>
+        <rect
+           style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+           id="rect828"
+           width="59.302856"
+           height="11.879995"
+           x="21.754303"
+           y="89.217148" />
+        <text
+           xml:space="preserve"
+           style="font-size:12.6557px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.59442;paint-order:stroke fill markers"
+           x="25.67745"
+           y="116.51295"
+           id="text832"
+           transform="scale(1.1909824,0.83964297)"><tspan
+             sodipodi:role="line"
+             id="tspan830"
+             style="stroke-width:1.59442"
+             x="25.67745"
+             y="116.51295">PEÇAS</tspan></text>
+      </g>
+      <g
+         id="g1121"
+         transform="translate(1.2914373e-6,0.98301839)">
+        <g
+           id="g594-5"
+           transform="translate(101.22198,-1.7144422)">
+          <g
+             id="g520-1">
+            <rect
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               id="rect514-1"
+               width="59.302856"
+               height="45.871433"
+               x="23.354305"
+               y="101.82857" />
+            <rect
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               id="rect516-0"
+               width="29.65143"
+               height="45.871429"
+               x="53.005733"
+               y="101.82857" />
+          </g>
+          <path
+             style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+             d="M 53.005733,101.82857 82.657166,147.7"
+             id="path585-0" />
+          <path
+             style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+             d="M 82.657166,101.82857 53.005735,147.7"
+             id="path587-2" />
+        </g>
+        <rect
+           style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+           id="rect828-7"
+           width="59.302856"
+           height="11.879995"
+           x="124.57629"
+           y="88.234131" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.6311px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.33936;paint-order:stroke fill markers"
+           x="146.57498"
+           y="87.441277"
+           id="text858"
+           transform="scale(0.89058321,1.1228597)"><tspan
+             sodipodi:role="line"
+             id="tspan856"
+             style="stroke-width:1.33936"
+             x="146.57498"
+             y="87.441277">REPOSIÇÃO</tspan></text>
+      </g>
+      <rect
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         id="rect1444"
+         width="59.30286"
+         height="57.751423"
+         x="124.57629"
+         y="89.217148" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.7757px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.73552;paint-order:stroke fill markers"
+         x="109.97099"
+         y="140.59293"
+         id="text933-7"
+         transform="scale(1.1646824,0.85860317)"><tspan
+           sodipodi:role="line"
+           id="tspan931-9"
+           style="stroke-width:1.73552"
+           x="109.97099"
+           y="140.59293">efeito</tspan></text>
+      <rect
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         id="rect1446"
+         width="102.82198"
+         height="57.751423"
+         x="21.754303"
+         y="89.217148" />
+      <path
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         d="M 63.631103,118.09286 H 29.048982"
+         id="path1448" />
+      <path
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         d="M 82.657158,118.09286 H 113.42936"
+         id="path1452" />
+      <path
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         d="M 82.657162,101.09715 H 113.42936"
+         id="path1452-2" />
+      <path
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         d="M 82.657157,135.08857 H 113.42936"
+         id="path1452-7" />
+    </g>
+    <g
+       id="g1573-1"
+       transform="translate(-0.52916857,64.69571)">
+      <g
+         id="g1042-6">
+        <g
+           id="g594-9"
+           transform="translate(-1.6000013,-0.73142)">
+          <g
+             id="g520-7">
+            <rect
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               id="rect514-9"
+               width="59.302856"
+               height="45.871433"
+               x="23.354305"
+               y="101.82857" />
+            <rect
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               id="rect516-60"
+               width="29.65143"
+               height="45.871429"
+               x="53.005733"
+               y="101.82857" />
+          </g>
+        </g>
+        <rect
+           style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+           id="rect828-1"
+           width="59.302856"
+           height="11.879995"
+           x="21.754303"
+           y="89.217148" />
+        <text
+           xml:space="preserve"
+           style="font-size:12.6557px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.59442;paint-order:stroke fill markers"
+           x="25.67745"
+           y="116.51295"
+           id="text832-8"
+           transform="scale(1.1909824,0.83964297)"><tspan
+             sodipodi:role="line"
+             id="tspan830-5"
+             style="stroke-width:1.59442"
+             x="25.67745"
+             y="116.51295">PEÇAS</tspan></text>
+      </g>
+      <g
+         id="g1121-0"
+         transform="translate(1.2914373e-6,0.98301839)">
+        <g
+           id="g594-5-7"
+           transform="translate(101.22198,-1.7144422)">
+          <g
+             id="g520-1-0">
+            <rect
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               id="rect514-1-7"
+               width="59.302856"
+               height="45.871433"
+               x="23.354305"
+               y="101.82857" />
+            <rect
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               id="rect516-0-80"
+               width="29.65143"
+               height="45.871429"
+               x="53.005733"
+               y="101.82857" />
+          </g>
+          <path
+             style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+             d="M 53.005733,101.82857 82.657166,147.7"
+             id="path585-0-4" />
+          <path
+             style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+             d="M 82.657166,101.82857 53.005735,147.7"
+             id="path587-2-3" />
+        </g>
+        <rect
+           style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+           id="rect828-7-1"
+           width="59.302856"
+           height="11.879995"
+           x="124.57629"
+           y="88.234131" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.6311px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.33936;paint-order:stroke fill markers"
+           x="146.57498"
+           y="87.441277"
+           id="text858-3"
+           transform="scale(0.89058321,1.1228597)"><tspan
+             sodipodi:role="line"
+             id="tspan856-8"
+             style="stroke-width:1.33936"
+             x="146.57498"
+             y="87.441277">REPOSIÇÃO</tspan></text>
+      </g>
+      <rect
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         id="rect1444-6"
+         width="59.30286"
+         height="57.751423"
+         x="124.57629"
+         y="89.217148" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.7757px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.73552;paint-order:stroke fill markers"
+         x="109.97099"
+         y="140.59293"
+         id="text933-7-4"
+         transform="scale(1.1646824,0.85860317)"><tspan
+           sodipodi:role="line"
+           id="tspan931-9-8"
+           style="stroke-width:1.73552"
+           x="109.97099"
+           y="140.59293">efeito</tspan></text>
+      <rect
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         id="rect1446-0"
+         width="102.82198"
+         height="57.751423"
+         x="21.754303"
+         y="89.217148" />
+      <path
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         d="M 63.631103,118.09286 H 29.048982"
+         id="path1448-9" />
+      <path
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         d="M 82.657158,118.09286 H 113.42936"
+         id="path1452-25" />
+      <path
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         d="M 82.657162,101.09715 H 113.42936"
+         id="path1452-2-0" />
+      <path
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         d="M 82.657157,135.08857 H 113.42936"
+         id="path1452-7-4" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+       x="154.22771"
+       y="124.03286"
+       id="text1491"><tspan
+         sodipodi:role="line"
+         id="tspan1489"
+         style="stroke-width:3.2"
+         x="154.22771"
+         y="124.03286" /></text>
+    <g
+       id="g1573-5"
+       transform="translate(-0.69665908,129.1693)">
+      <g
+         id="g1042-5">
+        <g
+           id="g594-0"
+           transform="translate(-1.6000013,-0.73142)">
+          <g
+             id="g520-70">
+            <rect
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               id="rect514-8"
+               width="59.302856"
+               height="45.871433"
+               x="23.354305"
+               y="101.82857" />
+            <rect
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               id="rect516-06"
+               width="29.65143"
+               height="45.871429"
+               x="53.005733"
+               y="101.82857" />
+          </g>
+        </g>
+        <rect
+           style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+           id="rect828-12"
+           width="59.302856"
+           height="11.879995"
+           x="21.754303"
+           y="89.217148" />
+        <text
+           xml:space="preserve"
+           style="font-size:12.6557px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.59442;paint-order:stroke fill markers"
+           x="25.67745"
+           y="116.51295"
+           id="text832-0"
+           transform="scale(1.1909824,0.83964297)"><tspan
+             sodipodi:role="line"
+             id="tspan830-9"
+             style="stroke-width:1.59442"
+             x="25.67745"
+             y="116.51295">PEÇAS</tspan></text>
+      </g>
+      <g
+         id="g1121-3"
+         transform="translate(1.2914373e-6,0.98301839)">
+        <g
+           id="g594-5-1"
+           transform="translate(101.22198,-1.7144422)">
+          <g
+             id="g520-1-05">
+            <rect
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               id="rect514-1-5"
+               width="59.302856"
+               height="45.871433"
+               x="23.354305"
+               y="101.82857" />
+            <rect
+               style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+               id="rect516-0-8"
+               width="29.65143"
+               height="45.871429"
+               x="53.005733"
+               y="101.82857" />
+          </g>
+          <path
+             style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+             d="M 53.005733,101.82857 82.657166,147.7"
+             id="path585-0-3" />
+          <path
+             style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+             d="M 82.657166,101.82857 53.005735,147.7"
+             id="path587-2-4" />
+        </g>
+        <rect
+           style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+           id="rect828-7-3"
+           width="59.302856"
+           height="11.879995"
+           x="124.57629"
+           y="88.234131" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.6311px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.33936;paint-order:stroke fill markers"
+           x="146.57498"
+           y="87.441277"
+           id="text858-5"
+           transform="scale(0.89058321,1.1228597)"><tspan
+             sodipodi:role="line"
+             id="tspan856-7"
+             style="stroke-width:1.33936"
+             x="146.57498"
+             y="87.441277">REPOSIÇÃO</tspan></text>
+      </g>
+      <rect
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         id="rect1444-5"
+         width="59.30286"
+         height="57.751423"
+         x="124.57629"
+         y="89.217148" />
+      <text
+         xml:space="preserve"
+         style="font-size:13.7757px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.73552;paint-order:stroke fill markers"
+         x="109.97099"
+         y="140.59293"
+         id="text933-7-7"
+         transform="scale(1.1646824,0.85860317)"><tspan
+           sodipodi:role="line"
+           id="tspan931-9-9"
+           style="stroke-width:1.73552"
+           x="109.97099"
+           y="140.59293">efeito</tspan></text>
+      <rect
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         id="rect1446-4"
+         width="102.82198"
+         height="57.751423"
+         x="21.754303"
+         y="89.217148" />
+      <path
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         d="M 63.631103,118.09286 H 29.048982"
+         id="path1448-3" />
+      <path
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         d="M 82.657158,118.09286 H 113.42936"
+         id="path1452-4" />
+      <path
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         d="M 82.657162,101.09715 H 113.42936"
+         id="path1452-2-7" />
+      <path
+         style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.2;paint-order:stroke fill markers"
+         d="M 82.657157,135.08857 H 113.42936"
+         id="path1452-7-41" />
+    </g>
+    <a
+       id="a1859"
+       xlink:href="index.svg">
+      <g
+         id="g1853">
+        <rect
+           style="opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:3.16332;paint-order:stroke fill markers"
+           id="rect1844"
+           width="56.510632"
+           height="8.6822071"
+           x="22.68713"
+           y="5.1689796" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.8004px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';opacity:0.98893;fill:#666666;stroke:#0000ff;stroke-width:1.36068;paint-order:stroke fill markers"
+           x="32.898205"
+           y="13.248269"
+           id="text1848"
+           transform="scale(1.0062909,0.99374843)"><tspan
+             sodipodi:role="line"
+             id="tspan1846"
+             style="stroke-width:1.36068"
+             x="32.898205"
+             y="13.248269">voltar</tspan></text>
+      </g>
+    </a>
+  </g>
+</svg>
